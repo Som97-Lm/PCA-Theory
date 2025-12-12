@@ -68,4 +68,4 @@ Focused on understanding ML algorithms through clear, hands-on, intuitive notebo
 
 ---
 
-If this notebook helps you, please **star  the repository**!
+If this notebook helps you, please **star  the repository**!.
